@@ -31,13 +31,15 @@
 			"actions"
 		]
 	},
+
 	"app_launcher": {
 		"window_size": "medium",
 		"maximized": true,
 		"full_screen": true
 	},
+	
 	"audio_player": {
-		"home_directory": "Music/",
+		"home_directory": "",
 		"view_kind": "lists",
 		"detail_kind": "artist",
 		"sort_kind": "track_number",
@@ -78,9 +80,11 @@
 			"desktop": 25
 		}
 	},
+
 	"calculator": {
 		"mode": "basic"
 	},
+
 	"calendar": {
 		"view_kind": "month",
 		"window_size": "medium",
@@ -104,6 +108,7 @@
 			"events"
 		]
 	},
+
 	"chat_browser": {
 		"view_kind": {
 			"phone": "cards",
@@ -133,6 +138,7 @@
 			"actions"
 		]
 	},
+
 	"chat_viewer": {
 		"messages_per_page": 50,
 		"window_size": "medium",
@@ -156,28 +162,25 @@
 			"info",
 			"chats"
 		],
-		"sidebar_info_kind": {
-			"phone": "icons",
-			"tablet": "icons",
-			"desktop": "icons"
-		},
 		"sidebar_view_kind": {
 			"phone": "lists",
 			"tablet": "lists",
 			"desktop": "lists"
 		},
-		"uploads_directory": "Uploads/",
+		"uploads_directory": "",
 		"copy_attachments": true,
 		"messages_directory": ".Messages/"
 	},
+	
 	"clock": {
 		"mode": "analog",
 		"show_mode": true,
 		"maximized": false,
 		"full_screen": false
 	},
+
 	"code_editor": {
-		"home_directory": "Code/",
+		"home_directory": "",
 		"show_gutter": true,
 		"show_indent_guides": true,
 		"show_print_margin": false,
@@ -224,6 +227,7 @@
 			"desktop": 25
 		}
 	},
+
 	"communicator": {
 		"default_topic": "What's New",
 		"posts_per_page": 10,
@@ -255,7 +259,7 @@
 			"chats"
 		],
 		"sidebar_info_kind": {
-			"phone": "icons",
+			"phone": "cards",
 			"tablet": "icons",
 			"desktop": "icons"
 		},
@@ -264,11 +268,12 @@
 			"tablet": "lists",
 			"desktop": "lists"
 		},
-		"uploads_directory": "Uploads/",
+		"uploads_directory": "",
 		"copy_attachments": true,
 		"storage_directory": ".News/",
 		"messages_directory": ".Messages/"
 	},
+
 	"connection_manager": {
 		"view_kind": {
 			"phone": "cards",
@@ -313,8 +318,9 @@
 			"desktop": "icons"
 		}
 	},
+	
 	"contact_editor": {
-		"home_directory": "Contacts/",
+		"home_directory": "",
 		"window_size": "medium",
 		"maximized": true,
 		"full_screen": false,
@@ -341,12 +347,14 @@
 			"desktop": "lists"
 		}
 	},
+
 	"decibel_meter": {
 		"display": "led",
 		"sensitivity": 100,
 		"maximized": false,
 		"full_screen": false
 	},
+
 	"file_browser": {
 		"view_kind": {
 			"phone": "cards",
@@ -414,6 +422,7 @@
 		"slide_duration": 2,
 		"slide_looping": true
 	},
+
 	"help_viewer": {
 		"window_size": "medium",
 		"maximized": true,
@@ -437,8 +446,9 @@
 			"index"
 		]
 	},
+
 	"image_viewer": {
-		"home_directory": "Pictures/",
+		"home_directory": "",
 		"background_color": null,
 		"zoom_duration": 100,
 		"rotate_duration": 500,
@@ -485,9 +495,11 @@
 			"desktop": 25
 		}
 	},
+
 	"mail_reader": {
 		"window_size": "medium"
 	},
+
 	"map_viewer": {
 		"use_my_location": false,
 		"latitude": 39.8283,
@@ -530,7 +542,7 @@
 				"mouse_mode",
 				"nav_mode",
 				"map"
-			]
+			]		
 		},
 		"map_view_kind": {
 			"phone": "icons",
@@ -572,19 +584,21 @@
 		"measuring_units": "metric",
 		"arrow_style": "filled",
 		"label_style": "rotated",
-		"home_directory": "Maps/",
-		"photos_directory": "Pictures/",
-		"videos_directory": "Videos/",
-		"uploads_directory": "Uploads/",
-		"dropbox_directory": "Pictures/Dropbox/",
-		"google_directory": "Pictures/Google/"
+		"home_directory": "",
+		"photos_directory": "",
+		"videos_directory": "",
+		"uploads_directory": "",
+		"dropbox_directory": "",
+		"google_directory": ""
 	},
+
 	"notification_center": {
 		"maximized": false,
 		"full_screen": false
 	},
+
 	"pdf_viewer": {
-		"home_directory": "Documents/",
+		"home_directory": "",
 		"background_color": null,
 		"zoom_duration": 100,
 		"window_size": "medium",
@@ -621,6 +635,7 @@
 			"desktop": 25
 		}
 	},
+
 	"post_viewer": {
 		"show_comments": true,
 		"show_options": true,
@@ -641,19 +656,15 @@
 		"sidebar_panels": [
 			"topics"
 		],
-		"sidebar_info_kind": {
-			"phone": "icon",
-			"tablet": "icons",
-			"desktop": "icons"
-		},
 		"sidebar_view_kind": {
 			"phone": "lists",
 			"tablet": "lists",
 			"desktop": "lists"
 		},
-		"uploads_directory": "Uploads/",
+		"uploads_directory": "",
 		"storage_directory": ".News/"
 	},
+
 	"profile_browser": {
 		"view_kind": {
 			"phone": "cards",
@@ -686,6 +697,7 @@
 			"actions"
 		]
 	},
+
 	"profile_viewer": {
 		"open_connections_in_new_window": false,
 		"window_size": "medium",
@@ -719,6 +731,7 @@
 			"desktop": "gallery"
 		}
 	},
+
 	"project_browser": {
 		"view_kind": {
 			"phone": "cards",
@@ -751,6 +764,7 @@
 			"actions"
 		]
 	},
+
 	"project_viewer": {
 		"view_kind": {
 			"phone": "cards",
@@ -789,7 +803,7 @@
 			"projects"
 		],
 		"sidebar_info_kind": {
-			"phone": "icon",
+			"phone": "cards",
 			"tablet": "icons",
 			"desktop": "icons"
 		},
@@ -798,22 +812,20 @@
 			"tablet": "lists",
 			"desktop": "lists"
 		},
-		"uploads_directory": "Uploads/",
+		"uploads_directory": "",
 		"copy_attachments": true,
-		"storage_directory": "Projects/"
+		"storage_directory": ""
 	},
+
 	"search_viewer": {
-		"search": [
-			"index",
-			"posts"
-		],
+		"search": ["index", "posts"],
 		"target": "text",
 		"min_score": 50,
 		"max_results": 100,
 		"view_kind": "cards",
 		"items_per_page": 30,
 		"window_size": "medium",
-		"maximized": false,
+		"maximized": true,
 		"full_screen": false,
 		"toolbars": [
 			"nav"
@@ -839,10 +851,11 @@
 			"params"
 		]
 	},
+
 	"settings_browser": {
 		"view_kind": {
-			"phone": "cards",
-			"tablet": "cards",
+			"phone": "icons",
+			"tablet": "icons",
 			"desktop": "icons"
 		},
 		"window_size": "medium",
@@ -863,11 +876,12 @@
 			"settings"
 		],
 		"sidebar_view_kind": {
-			"phone": "cards",
-			"tablet": "cards",
+			"phone": "icons",
+			"tablet": "icons",
 			"desktop": "icons"
 		}
 	},
+
 	"settings_manager": {
 		"window_size": "medium",
 		"maximized": false,
@@ -893,12 +907,14 @@
 			"desktop": "icons"
 		}
 	},
+
 	"terminal": {
 		"font_size": 13,
 		"window_size": "medium",
 		"maximized": false,
 		"full_screen": false
 	},
+
 	"text_editor": {
 		"font": "Open Sans",
 		"font_size": 14,
@@ -906,6 +922,7 @@
 		"maximized": true,
 		"full_screen": false
 	},
+
 	"theme_manager": {
 		"home_directory": "/Shared/Documents/Themes/",
 		"window_size": "medium",
@@ -935,11 +952,13 @@
 			"desktop": "lists"
 		}
 	},
+
 	"theme_picker": {
 		"window_size": "small",
 		"maximized": false,
 		"full_screen": false
 	},
+
 	"timer": {
 		"display": "led",
 		"show_hours": true,
@@ -951,6 +970,7 @@
 		"maximized": false,
 		"full_screen": false
 	},
+
 	"topic_browser": {
 		"view_kind": {
 			"phone": "cards",
@@ -983,6 +1003,7 @@
 			"actions"
 		]
 	},
+
 	"topic_viewer": {
 		"default_topic": "What's New",
 		"posts_per_page": 10,
@@ -1011,22 +1032,18 @@
 			"info",
 			"topics"
 		],
-		"sidebar_info_kind": {
-			"phone": "icons",
-			"tablet": "icons",
-			"desktop": "icons"
-		},
 		"sidebar_view_kind": {
 			"phone": "lists",
 			"tablet": "lists",
 			"desktop": "lists"
 		},
-		"uploads_directory": "Uploads/",
+		"uploads_directory": "",
 		"copy_attachments": true,
 		"storage_directory": ".News/"
 	},
+
 	"tune_editor": {
-		"home_directory": "/Music",
+		"home_directory": "",
 		"notation_size": 100,
 		"fit_width": false,
 		"tune_looping": false,
@@ -1058,8 +1075,9 @@
 			"desktop": 25
 		}
 	},
+
 	"video_player": {
-		"home_directory": "Videos/",
+		"home_directory": "",
 		"background_color": null,
 		"volume": 5,
 		"clip_looping": false,
@@ -1068,7 +1086,7 @@
 		"maximized": false,
 		"full_screen": false,
 		"toolbars": [
-			"clip",
+			"clip", 
 			"volume",
 			"video"
 		],
@@ -1103,14 +1121,15 @@
 			"desktop": 25
 		}
 	},
+
 	"web_browser": {
 		"homepage": "https://www.google.com/webhp?igu=1",
-		"home_directory": "Favorites/",
+		"home_directory": "",
 		"window_size": "medium",
 		"maximized": true,
 		"full_screen": false,
 		"toolbars": [
-			"nav",
+			"nav", 
 			"address"
 		],
 		"show_sidebar": true,

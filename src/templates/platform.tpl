@@ -36,6 +36,40 @@
 	<div class="section">
 		<div class="row">
 			<div class="col-sm-6">
+				<a href="https://soundify.org" target="_blank">
+					<h2><div class="icon"><img src="images/logos/soundify.png"></div>Soundify.org</h2>
+				</a>
+				<p>Soundify is a self-hostable, cloud based media management and sharing platform.  It allows you to play manage, and share your music and to have full control over the platform that you use to do so. </p>
+			</div>
+			<div class="col-sm-6">
+				<div class="figure">
+					<a href="images/info/platform/soundify.png" target="_blank" class="lightbox" title="Soundify.org"><img src="images/info/platform/soundify.png" /></a>
+					<div class="caption">Soundify.org</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="section">
+		<div class="row">
+			<div class="col-sm-6">
+				<a href="https://twixt.me" target="_blank">
+					<h2><div class="icon"><img src="images/logos/twixt.png"></div>Twixt.me</h2>
+				</a>
+				<p>Twixt is a self-hostable social media and communications platform. It includes discussion topics and direct messaging and the ability to share and manage files and data.  Best of all, you can run it on your own server and have full control over your social platform. </p>
+			</div>
+			<div class="col-sm-6">
+				<div class="figure">
+					<a href="images/info/platform/twixt.png" target="_blank" class="lightbox" title="Twixt.me"><img src="images/info/platform/twixt.png" /></a>
+					<div class="caption">Twixt.me</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="section">
+		<div class="row">
+			<div class="col-sm-6">
 				<a href="https://opticexplorer.com" target="_blank">
 					<h2><div class="icon"><img src="images/logos/opticexplorer.png"></div>OpticExplorer.com</h2>
 				</a>
@@ -70,15 +104,15 @@
 	<div class="section">
 		<div class="row">
 			<div class="col-sm-6">
-				<a href="https://rocketkitty.org" target="_blank">
-					<h2><div class="icon"><img src="images/logos/rocketkitty.png"></div>RocketKitty.org</h2>
+				<a href="https://mymappix.sharedigm.com" target="_blank">
+					<h2><div class="icon"><img src="images/logos/mappix.png"></div>Mappix</h2>
 				</a>
-				<p>RocketKitty is a family of free, friendly, self-hostable cloud-based storage and sharing platforms. </p>
+				<p>Mappix is a cloud based image management and sharing platform for drone pilots.  It allows you to easily upload your aerial images and videos, view them on a map, and share them with others. </p>
 			</div>
 			<div class="col-sm-6">
 				<div class="figure">
-					<a href="images/info/platform/rocketkitty.png" target="_blank" class="lightbox" title="RocketKitty.org"><img src="images/info/platform/rocketkitty.png" /></a>
-					<div class="caption">RocketKitty.org</div>
+					<a href="images/info/platform/mappix.png" target="_blank" class="lightbox" title="Mappix"><img src="images/info/platform/mappix.png" /></a>
+					<div class="caption">Mappix</div>
 				</div>
 			</div>
 		</div>
@@ -90,7 +124,7 @@
 				<a href="https://cloudintosh.com" target="_blank">
 					<h2><div class="icon"><img src="images/logos/cloudintosh.png"></div>Cloudintosh.com</h2>
 				</a>
-				<p>Cloudintosh combines the power of <%= application.name %> with the familiar look and feel of your favorite desktop or mobile operating system! </p>
+				<p>Cloudintosh is a cloud based operating system and sharing platform.  It combines the power of the cloud with the familiar look and feel of your favorite desktop or mobile operating system! </p>
 			</div>
 			<div class="col-sm-6">
 				<div class="figure">
@@ -107,12 +141,29 @@
 				<a href="https://windows3000.com" target="_blank">
 					<h2><div class="icon"><img src="images/logos/windows3000.png"></div>Windows3000.com</h2>
 				</a>
-				<p>Windows3000 combines the power of <%= application.name %> with the familiar look and feel of the world's most popular desktop operating system! </p>
+				<p>Windows3000 is a cloud based operating system and sharing platform.  It combines the power of the cloud with the familiar look and feel of the world's most popular desktop operating system! </p>
 			</div>
 			<div class="col-sm-6">
 				<div class="figure">
 					<a href="images/info/platform/windows3000.png" target="_blank" class="lightbox" title="Windows3000.com"><img src="images/info/platform/windows3000.png" /></a>
 					<div class="caption">Windows3000.com</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="section">
+		<div class="row">
+			<div class="col-sm-6">
+				<a href="https://cloudwinxp.sharedigm.com" target="_blank">
+					<h2><div class="pixelated icon"><img src="images/logos/cloudwinxp.png"></div>CloudWinXP.com</h2>
+				</a>
+				<p>Start Retrocomputing! CloudWinXP is a cloud based operating system and sharing platform.  It combines the power of the cloud with the familiar look and feel of the WindowsXP desktop operating system! </p>
+			</div>
+			<div class="col-sm-6">
+				<div class="figure">
+					<a href="images/info/platform/cloudwinxp.png" target="_blank" class="lightbox" title="CloudWinXP.com"><img src="images/info/platform/cloudwinxp.png" /></a>
+					<div class="caption">CloudWinXP.com</div>
 				</div>
 			</div>
 		</div>
