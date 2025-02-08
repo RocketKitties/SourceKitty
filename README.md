@@ -34,20 +34,20 @@ Desktop
 
 ## Live Demo
 
-You can create an account and explore the features and benefits of the platform at [www.sourcekitty.org](https://www.sourcekitty.org).
+You can create an account and explore the features and benefits of the platform at [sourcekitty.org](https://sourcekitty.org).
 
 ## Installation
 
-Please follow the instructions in [www.sourcekitty.org/#installation](https://www.sourcekitty.org/#installation) to install the software on your computer or web server.
+Please follow the instructions in [sourcekitty.org/#installation](https://sourcekitty.org/#installation) to install the software on your computer or web server.
 
 ## Instructions
 
-See the [Sharedigm User Guide](https://www.sharedigm.com/#help) for instructions on how to use the platform.
+See the [SourceKitty User Guide](https://sourcekitty.org/#help) for instructions on how to use the platform.
 
 ## License
 
-Distributed under the IndieSource License which allows unrestricted use of the software except by very large corporations. See [LICENSE.md](LICENSE.md) for more information.
+Distributed under the <a href="https://indiesource.org/">IndieSource License</a> which allows unrestricted use of the software except by very large corporations. See [LICENSE.md](LICENSE.md) for more information.
 
 ## Contact
 
-mailto:admin@sharedigm.com
+mailto:admin@sourcekitty.org
