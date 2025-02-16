@@ -57,7 +57,7 @@
 			"2025-02-07": "downloads/SourceKitty_2025-02-07.zip"
 		},
 		"development": {
-			"GitHub": "https://github.com/RocketKitty/SourceKitty"
+			"GitHub": "https://github.com/RocketKitties/SourceKitty"
 		}
 	},
 
@@ -76,7 +76,7 @@
 	"settings": {
 		"enable_notifications": true,
 		"mute_sounds": false,
-		"volume": 5
+		"volume": 1
 	},
 
 	"sharing": {
