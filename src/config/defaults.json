@@ -61,18 +61,6 @@
 		}
 	},
 
-	"search": {
-		"placeholder": "Search for terms or text.",
-		"options": ["view_kind", "detail_kind", "create_date"],
-		"hidden": true,
-
-		"index": {
-			"name": "search index",
-			"icon": "<i class=\"fa fa-search\"></i>"
-		},
-		"directory": "/Shared"
-	},
-
 	"settings": {
 		"enable_notifications": true,
 		"mute_sounds": false,
