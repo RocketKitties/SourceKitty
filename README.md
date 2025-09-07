@@ -46,7 +46,7 @@ See the [SourceKitty User Guide](https://sourcekitty.org/#help) for instructions
 
 ## License
 
-Distributed under the <a href="https://indiesource.org/">IndieSource License</a> which allows unrestricted use of the software except by very large corporations. See [LICENSE.md](LICENSE.md) for more information.
+Distributed under the <a href="https://en.wikipedia.org/wiki/MIT_License">MIT License</a> which allows unrestricted use of the software. See [LICENSE](LICENSE) for more information.
 
 ## Contact
 
