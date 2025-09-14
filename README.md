@@ -7,10 +7,10 @@
 SourceKitty is a cloud-based code storage, management, and sharing system. Best of all, you can run it on your own server!
 
 ![Screen Shot](images/screen-shots/welcome.png)
-Welcome Screen
+*Welcome Screen*
 
 ![Screen Shot](images/screen-shots/desktop.png)
-Desktop
+*Desktop*
 
 ## Features
 
